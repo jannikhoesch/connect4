@@ -8,3 +8,6 @@ I implemented the following agents:
 * **DeepRL Agent:** Deep Reinforcement Learning agent that was trained against a random agent, the naive agent and the OneStep agent.
 
 Competing agains each other, the nStep agent outperformed the other agents. Especially the DeepRL agent struggled to find winning strategies due to unsufficient training. However, in the challenge leaderboard the oneStep agent reached with 770 points and rank 50 the best result.
+
+## Source
+www.kaggle.com/competitions/connectx/overview/$citation
